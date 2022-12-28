@@ -7,7 +7,7 @@ where sales_id not in(
     where Company.name='RED'
 )
 
-%%======================================================
+#======================================================
 
 select name
 from SalesPerson
